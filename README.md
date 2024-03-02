@@ -2,4 +2,4 @@
  
 Welcome to my Cosmere MTG cards. 
 
-I don't play much Magic, so take this all with a grain of salt.
+I don't play much Magic, so take this all with a grain of salt. i just have fun making the cards
