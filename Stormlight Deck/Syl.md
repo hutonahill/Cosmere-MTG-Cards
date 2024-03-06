@@ -30,8 +30,6 @@ Kaladin has Ward 3 while *Syl, Honor Spren* is on the battlefield.
 
 tap: Target friendly creature gains ward 2 until the start of your next turn.
 
-tap, 5: If at least 2 windrunners have died this turn, move *Kaladin, Surgebinder* out of the game and play *Kaladin, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn.
+tap, 5: If at least 2 windrunners or 1 legendary creature have died this turn, move *Kaladin, Surgebinder* out of the game and play *Kaladin, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn.
 
 *Syl, Wind Spren* may not block and is immune to all damage if Kaladin is on the battlefield.
-
-This card may not be in a library. if this card is ever in a library remove it from the game immediately.

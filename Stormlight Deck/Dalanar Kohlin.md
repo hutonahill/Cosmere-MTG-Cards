@@ -2,15 +2,15 @@
 
 #### Phase 1 - Dalinar Kohlin, The Blackthorn:
 
-???
+r, r, r, 4
 
-10/10
+9/9
 
 Legendary Creature - Human Soldier
 
 Dalinar Kohlin, The Blackthorn deals any excess damage to a random friendly creature
 
-Dalinar Kohlin, The Blackthorn may attack creatures, but not planeswalkers or players
+Dalinar Kohlin, The Blackthorn attacks creatures, not planeswalkers or player
 
 If *Dalinar Kohlin, The Blackthorn* destroys a friendly creature with a converted manna cost of 4 or more, transform *Dalinar Kohlin, The Blackthorn*
 

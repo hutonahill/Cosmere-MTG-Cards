@@ -2,7 +2,7 @@
 
 ### Phase 1 - Shallan, Ward:
 
-// ???
+b, b, 2
 
 2/3
 
@@ -21,13 +21,13 @@ N/A
 
 Creature - Human Spy
 
-w, tap: You may attack with with up to 3 creatures face down in any order you wish (you may shuffle these in secret). These creatures flip face up during damage phase
+b, tap: You may attack with with up to 3 creatures face down in any order you wish (you may shuffle these in secret). These creatures flip face up during damage phase
 
-w, w, double-tap: Steal an artifact from a target player.
+b, b, double-tap: Steal an artifact from a target player.
 
 This card may not be in a library. if this card is ever in a library remove it from the game immediately.
 
-You may pay 3 manna and double-tap *Shallan, Surgebinder*. If you do you may remove *Pattern, Lie Spren* from the game and play *Pattern, Cryptic* from outside the game with suspend 2.
+You may pay 3 manna and double-tap *Shallan, Surgebinder*. If you do you may transform *Pattern, Lie Spren* with suspend 2.
 
 ---
 ### Phase 3 - Shallan, Knight Radiant: 

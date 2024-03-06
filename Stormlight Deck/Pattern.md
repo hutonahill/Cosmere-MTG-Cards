@@ -10,7 +10,7 @@ Creature - Spirit
 
 Shallan has Ward 1 while **Pattern, Lie Spren** is on the battlefield
 
-*Pattern, Lie Spren* may not block and is immune to all damage is Shalan is on the battlefield.
+*Pattern, Lie Spren* may not block and is immune to all damage is Shallan is on the battlefield.
 
 ---
 	

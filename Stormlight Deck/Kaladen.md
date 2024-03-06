@@ -1,7 +1,7 @@
 ## Kaladin Stormblessed
 
 ### Phase 1 - Kaladin, Broken bridgeman:
-2, w
+1, r, w
 
 1/5
 
@@ -26,7 +26,7 @@ Windrunners you control get +0/+X, where X is the number of Windrunners you cont
 
 At the beginning of your end step, if no Windrunners you control died this turn, transform a token creature into a 2/2 Windrunner creature token with flying. You may instead pay 1 mana to gain a 2/2 Windrunner if you have no non-Windrunner tokens.
 
-tap, 2: Remove *Syl, Wind Spren* from the game and play *Syl, Honor Spren* from outside of the game
+tap, 2: Transform *Syl, Wind Spren*
 
 Kaladin, Surgebinder may take damage for any other Windrunner in play.
 
@@ -36,7 +36,9 @@ This card may not be in a library. If this card is ever in a library remove it f
 ### Phase 3 -  Kaladin, Knight Radiant:
 
 6/10
+
 Vigilance, Flying
+
 Legendary Creature - Human Radiant Windrunner
 
 Radiants you control gain +2/+X where X is the number of windrunners you control.
