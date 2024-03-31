@@ -26,10 +26,8 @@ Hexproof
 
 Shallan has Ward 3 while *Pattern, Cryptic* is on the battlefield
 
-b,b,b,2: Remove *Shallan, Surgebinder* from the game and play *Shallan, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn
+b,b,b,2: Remove *Shallan, Surgebinder* from the game and play *Shallan, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn.
 
 *Pattern, Cryptic* may only block if *Shallan, Knight Radiant* is also blocking.
 
 *Pattern, Cryptic* is immune to all damage while Shallan is on the battlefield.
-
-This card may not be in a library. If this card is ever in a library remove it from the game immediately.

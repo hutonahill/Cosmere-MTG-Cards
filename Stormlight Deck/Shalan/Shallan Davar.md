@@ -10,7 +10,7 @@ Creature - Human Scholar
 
 tap: place *Shallan, Ward* in the control of a target player without this ability. Shallan Gains gains 3 counters. At the end of the target player's turn remove one counter. When the last counter is removed you regain control of *Shallan, Ward* with this ability restored and gain control of an artifact controlled by the target player. The target player my counter your gaining control of an artifact as if you cast an instant to gain control of it. If when the last counter is removed you control *Pattern, Lie Spren* instead remove *Shallan Ward* from the game and play *Shallan, Surgebinder* from outside the game.
 
-The owner of *Shallan, Ward* may pay 1 manna to make *Shallan, Ward* immune to all damage and spell effects until the end of the current turn. When this ability is used, roll 1d6. If its a 1 or 2 the owner takes 1 damage.
+The owner of *Shallan, Ward* may pay 1 manna to make *Shallan, Ward* immune to all damage and spell effects until the end of the current turn. When this ability is used, roll 1d6. If its a 1 or 2 the owner of *Shallan, Ward* takes 1 damage.
 
 ---
 ### Phase 2 - Shallan, Surgebinder:
@@ -37,11 +37,11 @@ N/A
 
 Legendary Creature - Human Radiant Lightweaver
 
-Hexproof
+*Shallan, Knight Radiant* may not be targeted by spells cast by your opponents
 
-When you attack all creatures are flipped face down and arranged in any order you wish (you may shuffle these in secret). These creatures flip face up during damage phase
+When you attack all of your creatures are flipped face down and arranged in any order you wish (you may shuffle these in secret). These creatures flip face up during damage phase
 
-While blocking Shallan, Knight Radiant gains +1/+X where x is the number untapped illusions you control
+While blocking Shallan, Knight Radiant gains +1/+X where X is the number untapped illusions that are attacking
 
 w, w: create a 0/1 illusion token.
 
