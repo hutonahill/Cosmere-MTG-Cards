@@ -8,9 +8,11 @@ r, r, r, 4
 
 Legendary Creature - Human Soldier
 
+trample
+
 Dalinar Kohlin, The Blackthorn deals any excess damage to a random friendly creature
 
-Dalinar Kohlin, The Blackthorn attacks creatures, not planeswalkers or player
+Dalinar Kohlin, The Blackthorn attacks creatures, not planeswalkers or players
 
 If *Dalinar Kohlin, The Blackthorn* destroys a friendly creature with a converted manna cost of 4 or more, transform *Dalinar Kohlin, The Blackthorn*
 
@@ -32,7 +34,7 @@ Legendary Planeswalker - Human Radiant Bondsmith
 
 \+ 1: All friendly Radiants gain +0/+2 until the start of your next turn
 
-\- 2: All attacking radiants have +2/+X where X is twice the number of radiants attacking
+\- 2: During this attack step all attacking radiants have +2/+X where X is twice the number of radiants attacking
 
 \- X: You may search your library for a Radiant creature card with converted mana cost X or less and put it into your hand
 

@@ -9,7 +9,7 @@ Creature - Human Solder
 
 tap: target creature gains +1/+0 until then end of the current turn
 
-If you control a Radiant Windrunner, Transform *The Lopen*
+If you control a Radiant Windrunner at the start of your turn you may pay 3 to  Transform *The Lopen*
 
 ## Phase 2 - King The Lopen
 N/A
