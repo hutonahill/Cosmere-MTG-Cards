@@ -6,7 +6,7 @@ b, b
 
 0/1
 
-Creature - Spirit
+Creature - Spren
 
 Shallan has Ward 1 while **Pattern, Lie Spren** is on the battlefield
 
@@ -20,14 +20,12 @@ N/A
 
 0/3
 
-Legendary Creature - Spirit
+Legendary Creature - Spren
 
 Hexproof
 
-Shallan has Ward 3 while *Pattern, Cryptic* is on the battlefield
+Shallan has Ward 3 while *Pattern, Cryptic* is on the battlefield untaped.
 
-b,b,b,2: Remove *Shallan, Surgebinder* from the game and play *Shallan, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn.
+b,b,b,2, tap: If you control *Shallan, Surgebinder*, remove *Shallan, Surgebinder* from the game and play *Shallan, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn.
 
-*Pattern, Cryptic* may only block if *Shallan, Knight Radiant* is also blocking.
-
-*Pattern, Cryptic* is immune to all damage while Shallan is on the battlefield.
+X X, tap: Target player must reveal X random card from their hand. Duplicates are allowed.
