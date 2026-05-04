@@ -28,4 +28,4 @@ Shallan has Ward 3 while *Pattern, Cryptic* is on the battlefield untaped.
 
 b,b,b,2, tap: If you control *Shallan, Surgebinder*, remove *Shallan, Surgebinder* from the game and play *Shallan, Knight Radiant* from outside the game with +2/+2 and hexproof until the end of your next turn.
 
-X X, tap: Target player must reveal X random card from their hand. Duplicates are allowed.
+X X, tap: Target player must reveal X random card from their hand. Duplicates are allowed.	
