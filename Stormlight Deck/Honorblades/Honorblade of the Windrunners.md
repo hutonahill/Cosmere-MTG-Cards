@@ -6,7 +6,7 @@ Unique
 
 Equipied creature gains +6/+2 and flying
 
-Honorblade (All creatures on the battlefield with with an Honorblade equiped contribute all their toughness to a single shared pool.)
+Honorblade
 
 Equip 5
 
